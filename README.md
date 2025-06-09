@@ -50,6 +50,7 @@
 - ⚙️ Integrated `Chainlink Automation` & `Data Feeds` for reliable on-chain operations
 - 🔎 Indexed lending data using `The Graph`
 - 🤝 Collaborated on backend services (`Node.js`, `Golang`)
+- 💡 Implemented a hybrid matching model where borrower and lender agreements are coordinated via an off-chain CLOB-style trading backend, enabling flexible interest rates and partial fills
 - 🎯 Focused on security, UX, and blockchain-native patterns
 
 ---
